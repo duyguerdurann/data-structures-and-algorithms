@@ -1,2 +1,2 @@
 # data structures and algorithms
- Veri yapıları dersinde yaptığım ödev ve çalışmalar
+ Veri Yapıları ve Algoritmalar dersinde yaptığım ödev ve çalışmalar
